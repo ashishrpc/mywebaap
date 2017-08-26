@@ -1,6 +1,8 @@
 jenkin user/password : admin/10c576c5ea5f494baeb92ef26cb5e908
 C:\Program Files (x86)\Jenkins\secrets\initialAdminPassword
 
+
+=============== build clean and install on tomcat server from cmd prompt using : mvn tomcat7:deploy
 1) C:\Java\Apache Software Foundation\apache-tomcat-7.0.75\conf\tomcat-users.xml update role:
 
 <role rolename="manager-gui"/>
